@@ -2,9 +2,9 @@
 
 ## WhatsApp
 
-הקבוצה מיועדת למי שכבר גר בפורטוגל או שיש לו פעילות במדינה. גם מי שממש כבר בשלבים מתקדמים של מעבר מוזמן.
+הקבוצה מיועדת למי שכבר גר בפורטוגל או שיש לו פעילות במדינה. גם מי שממש כבר בשלבים מתקדמים של מעבר מוזמן
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSciByX3ABS3T8U2OtwjAxP6Pz9ZPzP5vWQD4E78P-TRfpdLCw/viewform" %}
+[https://forms.gle/bvwPsSY3ZKzS3d1BA](https://forms.gle/bvwPsSY3ZKzS3d1BA)
 
 ## Facebook
 
