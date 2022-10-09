@@ -2,4 +2,4 @@
 
 #### הרמת כוסית לראש השנה - 2022 תשפ״ג
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
